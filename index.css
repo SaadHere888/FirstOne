@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+}
+.h1{
+    text-align: center;
+    font-size: 47px;
+    text-decoration: underline double grey;
+    color: grey;
+}
+.h1:hover{
+    color: white;
+    cursor: pointer;
+    font-family: monospace;
+}
+.p1{
+    color: gray;
+    font-family: cursive;
+    font-size: 20px;
+}
+.p1:hover{
+    color: white;
+    cursor: pointer;
+}
+table{
+    border: 20px double gray;
+}
+th{
+    font-size: 20px;
+    color: gray;
+    font-family: cursive;
+}
+th:hover{
+    color: white;
+    cursor: pointer;
+    font-family: monospace;
+}
+td{
+    font-size: 20px;
+    color: gray;
+    font-family: cursive;
+}
+td:hover{
+    font-family: monospace;
+    color: white;
+    cursor: pointer;
+}
+.para{
+    text-indent: 20px;
+}
+.anchor{
+    color: blue;
+    font-family: monospace;
+    font-size: 40px;
+}
+.jelly{
+    background-color: rgb(175, 169, 169);
+}
+footer{
+    height: 300px;
+    background-color: rgb(175, 169, 169);
+    position: relative;
+}
+.a{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 800px;
+}
+.a:hover{
+    color: blueviolet;
+    font-family: cursive;
+}
+.aa{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 50px;
+}
+.aa:hover{
+    color: blueviolet;
+    font-family: cursive;
+}
+.details{
+    position: absolute;
+    left: 390px;
+    top: 100px;
+}
+.producer{
+    font-size: 40px;
+}
+.aaa{
+    position: absolute;
+    top: 120px;
+    font-size: 40px;
+}
+.aaa:hover{
+    color: blueviolet;
+    font-family: cursive;
+}
+.login{
+    font-size: 50px;
+    position: absolute;
+    top: 0px;
+    color:gray ;
+}
+.login:hover{
+    color: rgb(101, 0, 126);
+    cursor: pointer;
+    font-family: monospace;
+}
