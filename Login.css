@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.outer{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom left , rgb(27, 152, 190) ,cyan);
+    position: absolute;
+}
+input{
+    display: block;
+    border: 1px  rgb(71, 216, 226) solid;
+    font-size: 20px;
+}
+.p{
+    background-color: rgb(44, 228, 241);
+    border: 2px solid rgb(97, 187, 223) ;
+    width: 250px;
+    position: relative;
+    left: 470px;
+    top: 190px;
+}
+label{
+    font-size: 25px;
+    font-family: fantasy;
+}
+#submit{
+    background-color: rgb(33, 196, 196);
+    position: absolute;
+    left: 480px;
+    top: 429px;
+}
+.already{
+    position: absolute;
+    left: 550px;
+    top: 500px;
+    font-family: monospace;
+    font-size: 30px;
+}
