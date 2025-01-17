@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.intro{
+    font-size: 40px;
+    font-family: monospace;
+}
+.det{
+    font-size: 40px;
+    font-family: monospace;
+    display: grid;
+    justify-items: center;
+}
+.outer{
+    background-color: rgb(121, 7, 7);
+}
+.inner{
+    background: linear-gradient(to top right , red , black);
+}
+a{
+    font-family: cursive;
+    color: rgb(104, 2, 99);
+}
